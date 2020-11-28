@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/705908350218666117?logo=discord&style=flat-square&color=%237289DA)](https://discord.gg/2Yt9jjTqM3)
+[![Discord](https://img.shields.io/discord/782194074697596938?logo=discord&style=flat-square&color=%237289DA)](https://discord.gg/2Yt9jjTqM3)
 ![JS](https://img.shields.io/badge/--yellow?logo=javascript&style=flat-square)
 ![TS](https://img.shields.io/badge/--blue?logo=typescript&style=flat-square)
 [![HitCount](http://hits.dwyl.com/Lightcord/Lightcord.svg)](http://hits.dwyl.com/Lightcord/Lightcord)
